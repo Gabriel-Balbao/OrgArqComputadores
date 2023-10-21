@@ -1,0 +1,1 @@
+**Exercício 5:** atualizar as instruções do Processador do ICMC a partir do arquivo "simple_simulator_template".
